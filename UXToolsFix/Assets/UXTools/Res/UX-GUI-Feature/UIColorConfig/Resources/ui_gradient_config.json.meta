@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54e50a6ecae1b70438e1c50bdbf55e39
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/UIColorConfig/Resources/ui_gradient_config.json
+  uploadId: 638755

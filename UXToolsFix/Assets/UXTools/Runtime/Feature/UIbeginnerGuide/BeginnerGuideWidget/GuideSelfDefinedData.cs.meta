@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 80bb9f4cde5a4cafbac9cf0665b0f13e
+timeCreated: 1664177380
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIbeginnerGuide/BeginnerGuideWidget/GuideSelfDefinedData.cs
+  uploadId: 638755

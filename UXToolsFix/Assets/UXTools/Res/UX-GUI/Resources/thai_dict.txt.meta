@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fef68d1dd70201b4bb76246e05dbcf8d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI/Resources/thai_dict.txt
+  uploadId: 638755

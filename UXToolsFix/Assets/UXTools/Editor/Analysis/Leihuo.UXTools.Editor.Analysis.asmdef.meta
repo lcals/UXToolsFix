@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e285c7724d76b84da5c22c3ac656347
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Analysis/Leihuo.UXTools.Editor.Analysis.asmdef
+  uploadId: 638755

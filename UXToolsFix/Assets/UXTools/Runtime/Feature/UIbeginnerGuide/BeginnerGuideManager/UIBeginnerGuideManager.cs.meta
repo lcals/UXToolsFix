@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c8f6539953fee04f8b424b3d7e019e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIbeginnerGuide/BeginnerGuideManager/UIBeginnerGuideManager.cs
+  uploadId: 638755

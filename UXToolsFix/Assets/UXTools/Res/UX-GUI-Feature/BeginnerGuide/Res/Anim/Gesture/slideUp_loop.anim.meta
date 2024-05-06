@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 90bbee64859e4e14f8f5eec8db43b621
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Anim/Gesture/slideUp_loop.anim
+  uploadId: 638755

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc852a159fb608a4387f8ffb64d2d957
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIAdapter/UIAdapter.cs
+  uploadId: 638755

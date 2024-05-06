@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 51a968ec1d8847518ba558bfa7b9b65f
+timeCreated: 1569823992
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/ITablePersistentComponent.cs
+  uploadId: 638755

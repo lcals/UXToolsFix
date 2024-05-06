@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: b20994d15e3647ce91024de5afe1c0bf
+timeCreated: 1568792294
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TableValidator/DistinctColumnValidator.cs
+  uploadId: 638755

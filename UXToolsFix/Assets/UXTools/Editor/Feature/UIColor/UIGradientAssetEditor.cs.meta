@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b74d68a016bee34e83044a9bc73ab9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Feature/UIColor/UIGradientAssetEditor.cs
+  uploadId: 638755

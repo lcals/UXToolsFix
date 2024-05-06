@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1aeccc69b7354004a894ef69cf662433
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Res/BackgroundPrefab.prefab
+  uploadId: 638755

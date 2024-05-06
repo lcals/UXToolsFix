@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8606e6199e167534bb7a3ad3ed615c2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Anim/Gesture/updragPrefab.controller
+  uploadId: 638755

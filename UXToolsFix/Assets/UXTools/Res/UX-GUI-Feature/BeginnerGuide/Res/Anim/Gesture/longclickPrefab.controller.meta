@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5c1e9879b9467eb4c8d04581c5bdff55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Anim/Gesture/longclickPrefab.controller
+  uploadId: 638755

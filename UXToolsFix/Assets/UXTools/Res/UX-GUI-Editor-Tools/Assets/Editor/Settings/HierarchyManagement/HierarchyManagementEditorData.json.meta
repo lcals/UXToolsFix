@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17de6235f118fad4e87795953152e3b6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Settings/HierarchyManagement/HierarchyManagementEditorData.json
+  uploadId: 638755

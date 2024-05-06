@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3dfc56ac974e73f4c960abf1fe503a07
+labels:
+- All
+- Pack
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-PresetWidget/UXToolPrefabs/Preset_Button_FirstWeak.prefab
+  uploadId: 638755

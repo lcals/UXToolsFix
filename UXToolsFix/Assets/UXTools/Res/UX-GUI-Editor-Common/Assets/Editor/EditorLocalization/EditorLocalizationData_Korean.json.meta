@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e1ab190b06181d4ab5d5ffe592f96ae
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Common/Assets/Editor/EditorLocalization/EditorLocalizationData_Korean.json
+  uploadId: 638755

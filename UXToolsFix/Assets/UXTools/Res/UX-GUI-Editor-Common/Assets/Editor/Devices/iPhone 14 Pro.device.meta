@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 15aa9cccac63f4e6a9a985ca1d69b140
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13973, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Common/Assets/Editor/Devices/iPhone
+    14 Pro.device
+  uploadId: 638755

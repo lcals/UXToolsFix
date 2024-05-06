@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 991fdd86945a44cf9b30989c426dacaa
+timeCreated: 1565847806
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TF_TableListRowLayoutGroup.cs
+  uploadId: 638755

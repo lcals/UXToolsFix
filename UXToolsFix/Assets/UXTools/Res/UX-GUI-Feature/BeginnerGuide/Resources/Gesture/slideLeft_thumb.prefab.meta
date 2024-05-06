@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81523fb22b1b6ca43bd34af552ed6f82
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/slideLeft_thumb.prefab
+  uploadId: 638755

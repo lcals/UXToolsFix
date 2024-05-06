@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 04a51275db702354395ae5b64b914973
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/slideRight_thumb.prefab
+  uploadId: 638755

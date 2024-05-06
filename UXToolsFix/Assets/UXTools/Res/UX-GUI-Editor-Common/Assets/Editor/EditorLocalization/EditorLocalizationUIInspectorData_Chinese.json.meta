@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d51854fe77f695d45ad9d81b77f22479
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Common/Assets/Editor/EditorLocalization/EditorLocalizationUIInspectorData_Chinese.json
+  uploadId: 638755

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c5474b7a928ba744ea13e05158f7125b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/UXGUI/Inspector/InputSlotDrawer.cs
+  uploadId: 638755

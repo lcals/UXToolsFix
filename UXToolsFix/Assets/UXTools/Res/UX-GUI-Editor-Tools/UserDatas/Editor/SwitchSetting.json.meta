@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c298cab573d14b4e8d4271670addcd1
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/UserDatas/Editor/SwitchSetting.json
+  uploadId: 638755

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 62622811396e3d645b24aecdc2aec75c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/dragPrefab_thumb.prefab
+  uploadId: 638755

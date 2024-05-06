@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c0a75707a93b25649a46b20ecf25667c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Anim/Gesture/slideLeft.controller
+  uploadId: 638755

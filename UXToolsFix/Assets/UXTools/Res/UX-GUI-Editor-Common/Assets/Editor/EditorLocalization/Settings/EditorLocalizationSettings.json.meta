@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a243bb0f7a21a3f4db952e2c3b8a9b00
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Common/Assets/Editor/EditorLocalization/Settings/EditorLocalizationSettings.json
+  uploadId: 638755

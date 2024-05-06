@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: f62e9bac763d404bbf2338e485112286
+timeCreated: 1664268671
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Tools/UXTools/Utils/WindowUtils/UXBuilder/UXScrollView/UXBuilderScrollView.cs
+  uploadId: 638755

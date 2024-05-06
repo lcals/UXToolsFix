@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e3cfbf3f7df1cb74ab5d77847ce073d6
+timeCreated: 1566463455
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TableRowFilter/BooleanRowFilter.cs
+  uploadId: 638755

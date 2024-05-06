@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e83cc97eedf63a5449817fcacd2c8f01
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/package/UXToolsSamples.unitypackage
+  uploadId: 638755

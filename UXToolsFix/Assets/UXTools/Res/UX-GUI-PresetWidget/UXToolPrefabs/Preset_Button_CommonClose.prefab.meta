@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2e25b09d3937c014a8e1f59f5a87c5b6
+labels:
+- All
+- Pack
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-PresetWidget/UXToolPrefabs/Preset_Button_CommonClose.prefab
+  uploadId: 638755

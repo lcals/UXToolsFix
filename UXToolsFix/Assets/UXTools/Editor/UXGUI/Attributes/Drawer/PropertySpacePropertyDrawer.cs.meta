@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49d86bc15eaeb324c9c553cf4d5435d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/UXGUI/Attributes/Drawer/PropertySpacePropertyDrawer.cs
+  uploadId: 638755

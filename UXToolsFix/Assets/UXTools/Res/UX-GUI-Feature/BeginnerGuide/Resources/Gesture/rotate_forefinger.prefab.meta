@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e49b337fff7724145b8baf823e6da1fa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/rotate_forefinger.prefab
+  uploadId: 638755

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 88b7cc30f6391af4299ec4b9b09f3a1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/UXGUI/Components/UXScrollRect.cs
+  uploadId: 638755

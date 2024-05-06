@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6ad0f9c2dd14c8546b2bad4102bf1784
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIColor/UIColorAsset.cs
+  uploadId: 638755

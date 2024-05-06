@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 08cd65606e964fb9bb18f1c7b8aa8d75
+timeCreated: 1565623904
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TF_TableList.cs
+  uploadId: 638755

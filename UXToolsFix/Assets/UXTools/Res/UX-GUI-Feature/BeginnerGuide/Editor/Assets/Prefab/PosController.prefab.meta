@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ee59d62180362f4fa0e18c176b6b7fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Editor/Assets/Prefab/PosController.prefab
+  uploadId: 638755

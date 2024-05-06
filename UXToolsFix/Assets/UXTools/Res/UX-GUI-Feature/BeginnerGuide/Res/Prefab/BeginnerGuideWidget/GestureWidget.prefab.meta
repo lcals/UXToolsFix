@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6bc106e2e539dda44af3453fe97cd0d0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Prefab/BeginnerGuideWidget/GestureWidget.prefab
+  uploadId: 638755

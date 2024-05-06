@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a7e5f9d69f95dc4593996b20425e542
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/clickPrefab_forefinger.prefab
+  uploadId: 638755

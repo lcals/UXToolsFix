@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef43a0db1f649274590f3d130c1f0ff3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI/Res/Shader/UXImage.shader
+  uploadId: 638755

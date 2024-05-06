@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df0a1c29cf6332840975b2e0d6267e4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/UXGUI/Inspector/UIvalueAdapterEditor.cs
+  uploadId: 638755

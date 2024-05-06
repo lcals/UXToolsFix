@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e1954ba2567ce143973e662f13c8d1f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIbeginnerGuide/BeginnerGuideWidget/GuideGestureData.cs
+  uploadId: 638755

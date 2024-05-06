@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 1e8912b6477c4c968096ac029e97b39c
+timeCreated: 1566301625
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TableRowFilter/RowFilter.cs
+  uploadId: 638755

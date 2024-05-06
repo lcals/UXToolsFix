@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51f24366ebe0c784292b93d66dbc2953
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4343727234628468602
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Res/Atlas/beginnerguide_gamepad_tips_atlas.spriteatlas
+  uploadId: 638755

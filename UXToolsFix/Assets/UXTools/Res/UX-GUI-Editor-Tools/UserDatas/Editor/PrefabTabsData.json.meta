@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 025a8a12dc524eb4a90c5f0a17f8d149
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/UserDatas/Editor/PrefabTabsData.json
+  uploadId: 638755

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 17e1f7621047cd944bd6fba4f2e30371
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 12385, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Window_uibuilder/USS/UXElements/UXSelect.uss
+  uploadId: 638755

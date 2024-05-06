@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1ce3d78eca75ac4585a48e26a1c9e54
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/dragPrefab_forefinger.prefab
+  uploadId: 638755

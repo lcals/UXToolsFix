@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 603cf9f7b75565840aa8cf5576088a59
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Leihuo.UXTools.Runtime.asmdef
+  uploadId: 638755

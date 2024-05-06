@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dd82662e807b4b5687e8762f440c36d6
+timeCreated: 1569422372
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TableRowFilter/DistinctFilter.cs
+  uploadId: 638755

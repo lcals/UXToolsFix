@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3159965240c56d84ab63efe7b42b05cd
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/UserDatas/Editor/PrefabRecentlyOpenedData.json
+  uploadId: 638755

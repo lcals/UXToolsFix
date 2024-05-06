@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 17b4b96214cae7a469bef91b74a00a4f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Resources/Gesture/slideDown_forefinger.prefab
+  uploadId: 638755

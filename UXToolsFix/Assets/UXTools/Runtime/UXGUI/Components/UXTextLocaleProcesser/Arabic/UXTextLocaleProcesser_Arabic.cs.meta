@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2c99ad1a49a34d94b87ff5f8ae7b796e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/UXGUI/Components/UXTextLocaleProcesser/Arabic/UXTextLocaleProcesser_Arabic.cs
+  uploadId: 638755

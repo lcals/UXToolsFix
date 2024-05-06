@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8f0857f85ecc988498c47eece7afdccd
+labels:
+- All
+- Pack
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-PresetWidget/UXToolPrefabs/Preset_Button_CommonBack.prefab
+  uploadId: 638755

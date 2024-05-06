@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 704d81d298f93a94ab5fc27fefbf9548
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI/Resources/Materials/UXImage.mat
+  uploadId: 638755

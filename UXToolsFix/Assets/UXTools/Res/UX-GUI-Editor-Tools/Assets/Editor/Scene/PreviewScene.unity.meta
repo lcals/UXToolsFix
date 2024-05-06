@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 29f59de3dc80af44896c770ae1fde522
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Scene/PreviewScene.unity
+  uploadId: 638755

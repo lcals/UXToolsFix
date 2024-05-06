@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 671e0cb4b99d69e448309406c39d9394
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Feature/Reddot/ReddotEditor.cs
+  uploadId: 638755

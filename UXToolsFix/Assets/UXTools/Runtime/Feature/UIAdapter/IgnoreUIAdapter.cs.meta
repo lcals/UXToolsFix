@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3cc3279bb0c584b4eb5d53fe20ceda9f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Runtime/Feature/UIAdapter/IgnoreUIAdapter.cs
+  uploadId: 638755

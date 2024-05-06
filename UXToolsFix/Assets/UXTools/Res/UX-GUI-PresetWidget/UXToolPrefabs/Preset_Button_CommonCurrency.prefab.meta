@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8132ea8fface6ca4eb0224667a2aa887
+labels:
+- All
+- Pack
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-PresetWidget/UXToolPrefabs/Preset_Button_CommonCurrency.prefab
+  uploadId: 638755

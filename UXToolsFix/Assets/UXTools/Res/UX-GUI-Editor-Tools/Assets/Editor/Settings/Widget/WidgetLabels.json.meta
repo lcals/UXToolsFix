@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 527adb36674d6f54a80f9dbe19e1acda
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Settings/Widget/WidgetLabels.json
+  uploadId: 638755

@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: dae4e95d8e944affb11473913e46736c
+timeCreated: 1568808034
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/Common/TableList/Editor/TableValidator/TableValidatorResult.cs
+  uploadId: 638755

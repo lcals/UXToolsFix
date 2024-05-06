@@ -1,0 +1,10 @@
+﻿fileFormatVersion: 2
+guid: 209beda86bef4cdf945cf90c8999e832
+timeCreated: 1575732888
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Res/UX-GUI/Res/Shader/ShaderLibrary/SDFUtils.cginc
+  uploadId: 638755

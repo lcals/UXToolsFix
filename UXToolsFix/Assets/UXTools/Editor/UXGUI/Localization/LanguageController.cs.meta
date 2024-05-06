@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57863683e18d4fb41a2c9206a2db4ee4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 241533
+  packageName: ThunderFireUXTool
+  packageVersion: 0.9.4
+  assetPath: Assets/UXTools/Editor/UXGUI/Localization/LanguageController.cs
+  uploadId: 638755
