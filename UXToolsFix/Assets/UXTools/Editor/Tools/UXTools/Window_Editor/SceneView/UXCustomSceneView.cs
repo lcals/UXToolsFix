@@ -42,6 +42,10 @@ namespace ThunderFireUITool
 
         static public void OnSceneGUI(SceneView sceneView)
         {
+            if (Event.current.mousePosition.ToString()=="(0.00, -45.00)")
+            {
+                return;
+            }
             foreach(Action<SceneView> method in list)
             {
                 method.Invoke(sceneView);
