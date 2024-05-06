@@ -77,7 +77,7 @@ Shader "UXImage"
 
             #include "UnityCG.cginc"
             #include "UnityUI.cginc"
-            #include "Assets/Res/Shader/ShaderLibrary/SDFUtils.cginc"
+            #include "Assets/UXTools/Res/UX-GUI/Res/Shader/ShaderLibrary/SDFUtils.cginc"
 
             #pragma multi_compile_local _ UNITY_UI_CLIP_RECT
             #pragma multi_compile_local _ UNITY_UI_ALPHACLIP
