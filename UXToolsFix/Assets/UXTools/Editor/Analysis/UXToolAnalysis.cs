@@ -211,13 +211,13 @@ namespace ThunderFireUITool
                 url = "https://uxtool-collector.ux.leihuo.easebar.com/uxtool-collector/api/collect";
             }
 
-            UnityWebRequest www = new UnityWebRequest(url, "POST");
-            byte[] bodyRaw = Encoding.UTF8.GetBytes(dataString);
-            www.uploadHandler = new UploadHandlerRaw(bodyRaw);
-            //www.downloadHandler = new DownloadHandlerBuffer();
-            www.SetRequestHeader("Content-Type", "application/json");
-            www.SendWebRequest();
-            www.uploadHandler.Dispose();
+            // UnityWebRequest www = new UnityWebRequest(url, "POST");
+            // byte[] bodyRaw = Encoding.UTF8.GetBytes(dataString);
+            // www.uploadHandler = new UploadHandlerRaw(bodyRaw);
+            // //www.downloadHandler = new DownloadHandlerBuffer();
+            // www.SetRequestHeader("Content-Type", "application/json");
+            // www.SendWebRequest();
+            // www.uploadHandler.Dispose();
         }
     }
 }
