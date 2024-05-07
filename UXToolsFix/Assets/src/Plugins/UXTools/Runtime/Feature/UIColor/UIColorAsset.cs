@@ -25,7 +25,7 @@ public class UIColorAsset : ScriptableObject
     [SerializeField]
     [NaughtyAttributes.ShowInInspector]
     public List<UIColor> defList = new List<UIColor>(){
-        new UIColor("sample 1", new Color(236f/255f,71f/255f,61f/255f,1),"color 1")
+        new UIColor("sample1", new Color(236f/255f,71f/255f,61f/255f,1),"color1")
     };
     public bool HasSameNameOrEmptyName()
     {
