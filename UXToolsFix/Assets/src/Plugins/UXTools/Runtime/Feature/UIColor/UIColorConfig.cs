@@ -4,7 +4,7 @@ using UnityEngine;
 
 public static class UIColorConfig
 {
-    public static readonly string RootPath = "Assets/UXTools/Res/";
+    public static readonly string RootPath = "Assets/src/Plugins/UXTools/Res/";
     public static readonly string ColorConfigPath = RootPath + "UX-GUI-Feature/UIColorConfig/Resources/";
     public static readonly string ColorConfigName = "ui_color_config";
     public static readonly string GradientConfigName = "ui_gradient_config";

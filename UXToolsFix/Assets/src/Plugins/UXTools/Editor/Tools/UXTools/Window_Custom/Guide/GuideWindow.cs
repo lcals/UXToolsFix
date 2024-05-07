@@ -17,7 +17,7 @@ public class GuideWindow : EditorWindow
 
     private bool agree = false;
 
-    public static string deleteUrl = "Assets/UXTools";
+    public static string deleteUrl = "Assets/src/Plugins/UXTools";
 
     public static int pageNum = 0;
     public static bool isAgreement = false;
@@ -79,7 +79,7 @@ public class GuideWindow : EditorWindow
         var image = new Image() { style = { width = 276, height = 86 } };
         image.image =
             AssetDatabase.LoadAssetAtPath<Texture>(
-                "Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Res/Icon/ToolLogo.png");
+                "Assets/src/Plugins/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Res/Icon/ToolLogo.png");
         image.scaleMode = ScaleMode.ScaleToFit;
         rowTop.Add(image);
 

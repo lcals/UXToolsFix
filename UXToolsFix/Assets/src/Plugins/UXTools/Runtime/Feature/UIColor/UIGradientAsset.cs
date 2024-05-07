@@ -69,7 +69,7 @@ public class UIGradientAsset : ScriptableObject
             needGenCsCode += $"\t\tDef_{single.ColorDefName.ToUpper()} = {Animator.StringToHash(single.ColorDefName)},\n";
         }
         needGenCsCode += "\t}\n}";
-        string path = "Assets/UXTools/Runtime/Feature/UIColor/UIGradientGenDef.cs";
+        string path = "Assets/src/Plugins/UXTools/Runtime/Feature/UIColor/UIGradientGenDef.cs";
         if (!File.Exists(path) || File.ReadAllText(path) != needGenCsCode)
         {
             File.WriteAllText(path, needGenCsCode);

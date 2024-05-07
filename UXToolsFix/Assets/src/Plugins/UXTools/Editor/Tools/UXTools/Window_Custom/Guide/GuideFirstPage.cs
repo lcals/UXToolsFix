@@ -41,7 +41,7 @@ public class GuideFirstPage : VisualElement
         var language = localizationSettings.LocalType.ToString();
         image.image =
             AssetDatabase.LoadAssetAtPath<Texture>(
-                "Assets/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Res/Icon/ToolGuide_" + language + ".png");
+                "Assets/src/Plugins/UXTools/Res/UX-GUI-Editor-Tools/Assets/Editor/Res/Icon/ToolGuide_" + language + ".png");
         image.scaleMode = ScaleMode.ScaleToFit;
         rowContent.Add(image);
 

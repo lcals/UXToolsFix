@@ -85,7 +85,7 @@ public class GuideGestureData : GuideWidgetData
 
         if (startPosControllerTrans == null || endPosControllerTrans == null)
         {
-            GameObject controllerPrefab = AssetDatabase.LoadAssetAtPath<GameObject>("Assets/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Editor/Assets/Prefab/PosController.prefab");
+            GameObject controllerPrefab = AssetDatabase.LoadAssetAtPath<GameObject>("Assets/src/Plugins/UXTools/Res/UX-GUI-Feature/BeginnerGuide/Editor/Assets/Prefab/PosController.prefab");
 
             dragStartPosController = Instantiate(controllerPrefab, transform);
             dragEndPosController = Instantiate(controllerPrefab, transform);

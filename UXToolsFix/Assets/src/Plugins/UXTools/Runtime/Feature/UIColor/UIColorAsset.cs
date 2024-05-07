@@ -55,7 +55,7 @@ public class UIColorAsset : ScriptableObject
             needGenCsCode += $"\t\tDef_{single.ColorDefName.ToUpper()} = {Animator.StringToHash(single.ColorDefName)},\n";
         }
         needGenCsCode += "\t}\n}";
-        string path = "Assets/UXTools/Runtime/Feature/UIColor/UIColorGenDef.cs";
+        string path = "Assets/src/Plugins/UXTools/Runtime/Feature/UIColor/UIColorGenDef.cs";
         if (!File.Exists(path) || File.ReadAllText(path) != needGenCsCode)
         {
             File.WriteAllText(path, needGenCsCode);
